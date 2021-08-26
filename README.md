@@ -1,0 +1,2 @@
+# Project-on-NLP-classification-of-emails
+Now a days every review from customers and feedbacks from employees in an organisation plays a vital role in development of the organization and to stand still in this competative world .in appopriate emails could demotivate and spoil the positive environent . We performed EDA and Feature Extraction on the data set. We have taken SVM ML model for our final deployment of web app of Emails classification. In a webpage we need to add the text we want to predict then it shows whether the text is Abusive or non - Abusive.
